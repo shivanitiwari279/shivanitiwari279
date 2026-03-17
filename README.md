@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Shivani%20Tiwari&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%E2%9A%A1%20%22Every%20expert%20was%20once%20a%20beginner%20%E2%80%94%20currently%20building%20my%20path%20in%20tech.%22" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=%E2%9A%A1%20%22Every%20expert%20was%20once%20a%20beginner%20%E2%80%94%20currently%20building%20my%20path%20in%20tech.%22" alt="Typing introduction" />
 </p>
 
 <p align="center">
