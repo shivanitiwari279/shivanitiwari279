@@ -27,22 +27,6 @@
 - Beginner Open Source Contributions
 
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/shivanitiwari279">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shivanitiwari279&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="shivanitiwari279's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=shivanitiwari279&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="shivanitiwari279's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=shivanitiwari279&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Shivani Tiwari's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=shivanitiwari279&theme=tokyonight&radius=10" alt="shivanitiwari279's Activity Graph" />
-</p>
-<div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
-</div>
 
 
 ## 🛠️ Languages & Tools
