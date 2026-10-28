@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<img src="./developer-banner.png" alt="Developer Banner" width="100%">
+<img src="./git image.png" alt="Developer Banner" width="100%">
 
 ## 📌 About Me
 - 🌱 Currently learning Java and improving my problem-solving skills
