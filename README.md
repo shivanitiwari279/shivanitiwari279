@@ -22,7 +22,7 @@
 
 ## 🧠 My Focus Areas
 - Java Programming
-- Web Development (HTML, CSS)
+- Web Development (HTML, CSS, JAVA SCIRPT)
 - Data Structures & Algorithms
 - Beginner Open Source Contributions
 
